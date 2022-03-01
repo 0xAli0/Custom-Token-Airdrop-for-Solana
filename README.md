@@ -45,7 +45,7 @@ python airdrop.py
 ```
 this command will start your airdrop
 
-If you have a problem do not hesitate to contact me. I will help you
+If you have a problem don't be shy to contact me. I will help you
 ## Contact
 
 
