@@ -14,6 +14,6 @@ Created by OXI-eth
 ## Contact
 
 
-Twitter: [@samvwaal](https://twitter.com/oxidev_)
+Twitter: [@oxidev_](https://twitter.com/oxidev_)
 
 Discord: @OXI#0001
