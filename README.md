@@ -49,6 +49,6 @@ If you have a problem don't be shy to contact me. I will help you
 ## Contact
 
 
-Twitter: [@oxidev_](https://twitter.com/m4vi_dev)
+Twitter: [@M4VI](https://twitter.com/m4vi_dev)
 
 Discord: @M4VI#0001
